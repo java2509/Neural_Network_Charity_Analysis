@@ -4,6 +4,9 @@
 
 ### Purpose:
 
+Beks is going to use her knowledge of machine learning and neural networks to help Alphabet Soup predict whether the organizations that have received funding will be successful if funded.
+
+
 ### Results: 
  - Data Preprocessing:
 1.) What variable(s) are considered the target(s) for your model?
