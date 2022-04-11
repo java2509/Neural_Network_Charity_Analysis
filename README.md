@@ -6,7 +6,6 @@
 
 Beks is going to use her knowledge of machine learning and neural networks to help Alphabet Soup predict whether the organizations that have received funding will be successful if funded.
 
-
 ### Results: 
  - Data Preprocessing:
  
@@ -50,6 +49,9 @@ No, it would be just under 75%
 - The activation for the outer layer from "sigmoid" to "tanh" 
 
 
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification 
+### Summary: 
+
+
+Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification 
 
 problem, and explain your recommendation.
