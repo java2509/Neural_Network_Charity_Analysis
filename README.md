@@ -18,19 +18,19 @@ The target variable for this model is the "IS_SUCCESSFUL" COLUMN
 
 The features of the model are:
 
-APPLICATION_TYPE          
-AFFILIATION               
-CLASSIFICATION            
-USE_CASE                  
-ORGANIZATION              
-STATUS                    
-INCOME_AMOUNT                
-SPECIAL_CONSIDERATIONS    
-ASK_AMOUNT                   
-
+- APPLICATION_TYPE          
+- AFFILIATION               
+- CLASSIFICATION            
+- USE_CASE                  
+- ORGANIZATION              
+- STATUS                    
+- INCOME_AMOUNT                
+- SPECIAL_CONSIDERATIONS    
+- ASK_AMOUNT                   
 
 3.) What variable(s) are neither targets nor features, and should be removed from the input data?
 
+NAME and EIN were removed as it does not add to the accuracy to the model. 
 
 - Compiling, Training, and Evaluating the Model:
 
