@@ -46,7 +46,7 @@ No, it would be just under 75%
 
 - Added a third hidden layer
 - Additional nuerons were added to the hidden layer
-- The epochs were increased to 300
+- The number epochs were increased to 300
 - The activation for the outer layer from "sigmoid" to "tanh" 
 
 
