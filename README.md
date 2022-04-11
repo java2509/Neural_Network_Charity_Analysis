@@ -7,7 +7,8 @@
 Beks is going to use her knowledge of machine learning and neural networks to help Alphabet Soup predict whether the organizations that have received funding will be successful if funded.
 
 ### Results: 
-- Data Preprocessing:
+
+Data Preprocessing:
  
 1.) What variable(s) are considered the target(s) for your model?
 
@@ -29,9 +30,9 @@ Beks is going to use her knowledge of machine learning and neural networks to he
 
 3.) What variable(s) are neither targets nor features, and should be removed from the input data?
 
-NAME and EIN were removed as it does not add to the accuracy to the model. 
+   NAME and EIN were removed as it does not add to the accuracy to the model. 
 
-- Compiling, Training, and Evaluating the Model:
+Compiling, Training, and Evaluating the Model:
 
 1.) How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
