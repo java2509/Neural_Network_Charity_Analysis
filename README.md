@@ -7,25 +7,25 @@
 Beks is going to use her knowledge of machine learning and neural networks to help Alphabet Soup predict whether the organizations that have received funding will be successful if funded.
 
 ### Results: 
- - Data Preprocessing:
+- Data Preprocessing:
  
 1.) What variable(s) are considered the target(s) for your model?
 
-The target variable for this model is the "IS_SUCCESSFUL" COLUMN
+   The target variable for this model is the "IS_SUCCESSFUL" COLUMN
 
 2.) What variable(s) are considered to be the features for your model?
 
-The features of the model are:
+   The features of the model are:
 
-- APPLICATION_TYPE          
-- AFFILIATION               
-- CLASSIFICATION            
-- USE_CASE                  
-- ORGANIZATION              
-- STATUS                    
-- INCOME_AMOUNT                
-- SPECIAL_CONSIDERATIONS    
-- ASK_AMOUNT                   
+   - APPLICATION_TYPE          
+   - AFFILIATION               
+   - CLASSIFICATION            
+   - USE_CASE                  
+   - ORGANIZATION              
+   - STATUS                    
+   - INCOME_AMOUNT                
+   - SPECIAL_CONSIDERATIONS     
+   - ASK_AMOUNT                   
 
 3.) What variable(s) are neither targets nor features, and should be removed from the input data?
 
