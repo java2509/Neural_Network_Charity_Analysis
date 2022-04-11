@@ -9,7 +9,7 @@ Beks is going to use her knowledge of machine learning and neural networks to he
 
 ### Results: 
  - Data Preprocessing:
- - 
+ 
 1.) What variable(s) are considered the target(s) for your model?
 
 2.) What variable(s) are considered to be the features for your model?
@@ -18,7 +18,7 @@ Beks is going to use her knowledge of machine learning and neural networks to he
 
 
 - Compiling, Training, and Evaluating the Model:
-- 
+
 1.) How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 2.) Were you able to achieve the target model performance?
