@@ -52,7 +52,4 @@ No, it would be just under 75%
 
 ### Summary: 
 
-
-Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification 
-
-problem, and explain your recommendation.
+The deep learning model was able to accurately predict which donations would be successful ~73% of the time.  
